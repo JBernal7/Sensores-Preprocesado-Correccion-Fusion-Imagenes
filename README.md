@@ -27,7 +27,7 @@ En esta sección se aborda el concepto de corrección geométrica, que incluye c
 Para reproducir los pasos y ejemplos descritos en cada parte, se requiere el software QGIS. Se proporcionan instrucciones detalladas junto con el código y ejemplos relevantes en cada archivo Markdown.
 
 ## Contribución
-Dado que este repositorio está destinado a ser un archivo personal (registro de las actividades realizas en el marco del Máster Oficial [Geoforest](https://mastergeoforest.es/)), no estoy buscando contribuciones activamente. Sin embargo, si encuentras algún error o tienes alguna sugerencia de mejora, no dudes en abrir un issue.
+Dado que este repositorio está destinado a ser un archivo personal (registro de las actividades realizas en el marco del Máster Oficial [Geoforest](https://mastergeoforest.es/) ), no estoy buscando contribuciones activamente. Sin embargo, si encuentras algún error o tienes alguna sugerencia de mejora, no dudes en abrir un issue.
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
